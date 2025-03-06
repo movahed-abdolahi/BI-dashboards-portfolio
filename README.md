@@ -24,6 +24,8 @@ This Power BI dashboard is designed to provide an in-depth analysis of Bitcoin's
 
 Open source .CSV data accessible from https://coinmarketcap.com/currencies/bitcoin/historical-data/
 
+Power BI file available here [Download the Power BI Report](BI-dashboards-portfolio/Bitcoin-Analysis.pbix)
+
 ##  Overview page:  
 
 - **Price Chart**: Displays Bitcoin's historical price and moving averages over different time frames including volume.
