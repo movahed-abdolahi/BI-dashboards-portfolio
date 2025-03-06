@@ -24,7 +24,7 @@ This Power BI dashboard is designed to provide an in-depth analysis of Bitcoin's
 
 Open source .CSV data accessible from https://coinmarketcap.com/currencies/bitcoin/historical-data/
 
-##  Overview page
+##  Overview page:  Screenshot(Images/Bitcoin-Dashboard-Overview.png)
 
 - **Price Chart**: Displays Bitcoin's historical price and moving averages over different time frames including volume.
 - **RSI Indicator**: Visualizes the RSI values to help identify overbought or oversold conditions.
@@ -33,7 +33,7 @@ Open source .CSV data accessible from https://coinmarketcap.com/currencies/bitco
 - **Timeframe slicer** this slicer used to select the preferred timeframe to look and analyse
 - **Signal** This visual suggests possible buy/sell/netral signals based on different factors such as volume/RSI/MA. (**Not financial advice**)
   
-## Moving Average page
+## Moving Average page: Screenshot(Images/Bitcoin-Dashboard-MovingAveragePeriod.png)
 
 - **Price Chart**: Displays Bitcoin's historical price and moving averages over different time frames.
 - **Moving average period selector**: Using this slicer period for moving average can be modified to retrieve 50/100/150/200 days moving average.
