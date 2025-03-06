@@ -48,6 +48,9 @@ Power BI file available here [Download the Power BI Report](Bitcoin-Analysis.pbi
 
 Feel free to open issues or submit pull requests if you'd like to contribute to this project. Contributions are always welcome!
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -100,6 +103,9 @@ Click on any country to drill into its detailed page, where you will find:
 ## Contributing
 
 Feel free to open issues or submit pull requests if you'd like to contribute to this project. Contributions are always welcome!
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Download Power BI file here:
 [Download the Power BI Report](GDP.pbix)
