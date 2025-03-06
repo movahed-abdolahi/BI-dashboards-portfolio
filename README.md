@@ -101,15 +101,6 @@ Click on any country to drill into its detailed page, where you will find:
 
 Feel free to open issues or submit pull requests if you'd like to contribute to this project. Contributions are always welcome!
 
-### Adding the `.pbix` Link (if applicable):
+### Download Power BI file here:
+[Download the Power BI Report](GDP.pbix)
 
-If you have uploaded the `.pbix` file to the repository, you can link to it like this:
-
-```markdown
-You can download the Power BI report file here:  
-[Download the Power BI Report](global-gdp-dashboard.pbix)
-```
-
----
-
-Feel free to modify any sections based on your project’s specific needs! Let me know if you'd like further adjustments.
