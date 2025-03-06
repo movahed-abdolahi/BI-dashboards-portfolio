@@ -93,19 +93,13 @@ Click on any country to drill into its detailed page, where you will find:
 
 ## Screenshots
 
-![Global GDP Map](images/screenshot1.png)
+![Overview](images/GDP-Overview.png)
 
-![Country Drill-Down](images/screenshot2.png)
+![Details](images/GDP-Details.png)
 
 ## Contributing
 
 Feel free to open issues or submit pull requests if you'd like to contribute to this project. Contributions are always welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ### Adding the `.pbix` Link (if applicable):
 
