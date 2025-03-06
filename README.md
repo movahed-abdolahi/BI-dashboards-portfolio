@@ -93,9 +93,9 @@ Click on any country to drill into its detailed page, where you will find:
 
 ## Screenshots
 
-![Overview](images/GDP-Overview.png)
+![Overview](Images/GDP-Overview.png)
 
-![Details](images/GDP-Details.png)
+![Details](Images/GDP-Details.png)
 
 ## Contributing
 
