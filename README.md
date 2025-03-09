@@ -65,6 +65,7 @@ This Power BI dashboard provides a comprehensive analysis of global GDP data, sh
 - **Yearly GDP Data**: Displays GDP over the years for selected countries.
 - **GDP per Capita**: Shows the GDP per capita for countries and regions, providing insight into economic performance on a per-person basis.
 - **Country Drill-Down**: By selecting a country on the map, users can drill into a detailed view of that country’s economic state, including GDP and GDP per capita over time.
+- **Usage of Date Table**: Use of date table for analyzing Date over Date analysis using time intelligence functions and etc
 
 ## Requirements
 
